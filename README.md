@@ -14,3 +14,7 @@ Requirements:
 7. Create a footer tag that houses a p element that thanks the user for visiting the page. The footer tag needs a unique id called "bottom".
 8. Create a anchor at the bottom of your page that goes to the top of your page.
 9. Create an anchor at the top of your page that goes to the bottom of your page.
+<br>
+<br>
+<br>
+(I fixed the line breaks here.)
